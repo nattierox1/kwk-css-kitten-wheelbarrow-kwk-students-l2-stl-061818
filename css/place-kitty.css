@@ -1,15 +1,15 @@
 /* Select the image with a class of kitty-1 */
 
-.firstkitty*/ {
+.firstKitty {
   position: absolute
   z-index: 1;
-  top: 276px;
+  top: 270px;
   left: 129px;
 }
 
 /* Select the image with id of kitty-2 */
 
-/*__write_selector_here__*/ {
+.secondkitty {
   position: absolute;
   z-index: 2;
   top: 212px;
@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-/*__write_selector_here__*/ {
+.thirdkitty {
   position: absolute;
   z-index: 5;
   top: 291px;
